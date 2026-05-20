@@ -2,7 +2,8 @@
   <img src="banner.png" width="100%" />
 </div>
 
-# 👋 Sobre mim
+---
+## 👋 Sobre mim
 
 💻 Desenvolvedora Full Stack  
 🚀 Fundadora da DevCraft Solutions  
