@@ -10,10 +10,9 @@
 Apaixonada por tecnologia, design e criação de experiências digitais modernas.
 
 ---
-
-<div align="center">
-  
 ## 🚀 Tecnologias
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,wordpress,git,github,vscode" />
 
 </div>
