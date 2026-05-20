@@ -25,8 +25,8 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ## 📫 Contato
 
-- Instagram: @seuuser
-- E-mail: seuemail@email.com
+- Instagram: @dev.calie
+- E-mail: dev.caline@gmail.com
 <!--
 **devcaline/devcaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
