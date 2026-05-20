@@ -10,7 +10,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 ## 🚀 Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,wordpress,woocommerce,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,wordpress,html,css" />
 </div>
 
 ---
