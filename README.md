@@ -22,21 +22,6 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 # 📌 Projetos em destaque
 
-## 🌐 Sites Institucionais
-- Landing pages modernas
-- Sites empresariais
-- Experiências responsivas
-
-## ⚙️ Sistemas Personalizados
-- Painéis administrativos
-- Sistemas de login
-- CRUDs
-- Integrações API
-
-## 🚀 Projetos Autorais
-- Protótipos web
-- Estudos e experimentos
-- Produtos digitais
 
 ---
 
@@ -56,7 +41,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcaline&theme=tokyonight" />
 
 </div>
 
