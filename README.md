@@ -41,7 +41,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcaline&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight" />
 
 </div>
 
