@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" />
 </div>
 
-# 👋 Olá, eu sou Caline
+# 👋 Sobre mim
 
 💻 Desenvolvedora Full Stack  
 🚀 Fundadora da DevCraft Solutions  
@@ -11,9 +11,9 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ---
 
-## 🚀 Tecnologias
 <div align="center">
-
+  
+## 🚀 Tecnologias
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,wordpress,git,github,vscode" />
 
 </div>
