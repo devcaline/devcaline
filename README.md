@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner.png" width="100%" />
+</div>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,mysql,wordpress,git,github,vscode" />
 
