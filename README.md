@@ -1,43 +1,75 @@
-# 👋 Olá, eu sou Caline
+<div align="center">
 
-💻 Desenvolvedora Full Stack  
-🚀 Fundadora da DevCraft Solutions  
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php,mysql,wordpress,git,github,vscode" />
 
-Apaixonada por tecnologia, design e criação de experiências digitais modernas.
-
----
-
-## 🚀 Tecnologias
-
-<div>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,wordpress,html,css" />
 </div>
 
 ---
 
-## 📌 Atualmente
+# 📌 Projetos em destaque
 
-- Criando projetos web personalizados
-- Estudando desenvolvimento e UI/UX
-- Desenvolvendo ideias e produtos digitais
+## 🌐 Sites Institucionais
+- Landing pages modernas
+- Sites empresariais
+- Experiências responsivas
+
+## ⚙️ Sistemas Personalizados
+- Painéis administrativos
+- Sistemas de login
+- CRUDs
+- Integrações API
+
+## 🚀 Projetos Autorais
+- Protótipos web
+- Estudos e experimentos
+- Produtos digitais
 
 ---
 
-## 📫 Contato
+# 📊 Estatísticas
 
-- Instagram: @dev.calie
-- E-mail: dev.caline@gmail.com
-<!--
-**devcaline/devcaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://instagram.com/SEUUSER">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/SEULINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Evoluindo 1% todos os dias ✨
+
+</div>
