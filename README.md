@@ -82,9 +82,9 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcaline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcaline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaline&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaline&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 
 </div>
 
@@ -94,7 +94,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight&locale=pt_BR" />
 
 </div>
 
