@@ -78,23 +78,15 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ---
 
-# 📊 Estatísticas
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api?username=devcaline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github&v=2"/>
+<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api?username=devcaline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github&hide_border=true&bg_color=00000000&v=3"/>
 
-<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api/top-langs/?username=devcaline&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&v=2"/>
+<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api/top-langs/?username=devcaline&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000000&v=3"/>
 
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight&locale=pt_BR&hide_border=true&background=00000000" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devcaline/devcaline/output/github-snake-dark.svg" />
