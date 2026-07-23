@@ -96,6 +96,11 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 <img src="https://streak-stats.demolab.com?user=devcaline&theme=tokyonight&locale=pt_BR" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devcaline/devcaline/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/devcaline/devcaline/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
