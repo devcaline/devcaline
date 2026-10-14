@@ -26,14 +26,13 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Storm Business</h3>
-      <a href="https://stormbusiness.com.br/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devcaline/site-consultoriaMedica/main/public/img/screenshot-dark.png" alt="Site da Storm Business" />
+      <a href="https://github.com/devcaline/storm-business-estudo-de-caso">
+        <img src="https://raw.githubusercontent.com/devcaline/storm-business-estudo-de-caso/main/prints/home-01-hero.jpg" alt="Site da Storm Business" />
       </a>
       <p>Site institucional pra consultoria de gestão de clínicas médicas. Design sob medida em modo escuro e claro, animações com Framer Motion e conteúdo 100% editável pelo cliente.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Framer Motion</code></p>
       <p align="center">
-        <a href="https://stormbusiness.com.br/"><strong>🔗 Site no ar</strong></a> ·
-        <a href="https://github.com/devcaline/site-consultoriaMedica">📂 Repositório</a>
+        <a href="https://github.com/devcaline/storm-business-estudo-de-caso"><strong>📖 Estudo de caso</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
