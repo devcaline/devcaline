@@ -20,7 +20,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ---
 
-# 📌 Projetos em destaque
+## 📌 Projetos em destaque
 
 <table>
   <tr>
@@ -32,39 +32,66 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
       <p>Site institucional pra consultoria de gestão de clínicas médicas. Design sob medida em modo escuro e claro, animações com Framer Motion e conteúdo 100% editável pelo cliente.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Framer Motion</code></p>
       <p align="center">
-        <a href="https://github.com/devcaline/storm-business-estudo-de-caso"><strong>📖 Estudo de caso</strong></a>
+        <a href="https://github.com/devcaline/storm-business-estudo-de-caso"><strong>📖 Estudo de caso</strong></a> ·
+        <a href="https://portifolio.devcraft.dev.br/storm/">🔗 Ver site</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Efatá Licitações</h3>
-      <a href="https://efataconsultoria.com.br/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devcaline/landingPage-conversao/main/public/screenshot.png" alt="Landing page da Efatá Consultoria" />
+      <h3 align="center">🧠 Daniel Rizzo</h3>
+      <a href="https://github.com/devcaline/daniel-rizzo-estudo-de-caso">
+        <img src="https://raw.githubusercontent.com/devcaline/daniel-rizzo-estudo-de-caso/main/prints/home-01-hero.jpg" alt="Site do psicólogo Daniel Rizzo" />
       </a>
-      <p>Landing page de alta conversão pra consultoria em licitações públicas: sinais de credibilidade em cada dobra, conduzindo o visitante até a compra.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>shadcn/ui</code></p>
+      <p>Site e blog pra um psicólogo que atende online: preto no branco, muito respiro e traços desenhados à mão, com um blog próprio pra ele escrever.</p>
+      <p><code>WordPress</code> <code>React</code> <code>Vite</code> <code>Tailwind CSS</code></p>
       <p align="center">
-        <a href="https://efataconsultoria.com.br/"><strong>🔗 Site no ar</strong></a> ·
-        <a href="https://github.com/devcaline/landingPage-conversao">📂 Repositório</a>
+        <a href="https://github.com/devcaline/daniel-rizzo-estudo-de-caso"><strong>📖 Estudo de caso</strong></a> ·
+        <a href="https://portifolio.devcraft.dev.br/psicologia/">🔗 Ver site</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🎯 Efatá Licitações</h3>
+      <a href="https://github.com/devcaline/efata-estudo-de-caso">
+        <img src="https://raw.githubusercontent.com/devcaline/efata-estudo-de-caso/main/prints/home-01-hero.jpg" alt="Landing page da Efatá Consultoria" />
+      </a>
+      <p>Landing page de alta conversão pra consultoria em licitações públicas: sinais de credibilidade em cada dobra, conduzindo o visitante até a compra.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>shadcn/ui</code></p>
+      <p align="center">
+        <a href="https://github.com/devcaline/efata-estudo-de-caso"><strong>📖 Estudo de caso</strong></a> ·
+        <a href="https://portifolio.devcraft.dev.br/efata/">🔗 Ver site</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🟣 DevCraft</h3>
-      <a href="https://devcraft.dev.br/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devcaline/devcraft/main/screenshots/hero.png" alt="Site da DevCraft" />
+      <a href="https://github.com/devcaline/devcraft-estudo-de-caso">
+        <img src="https://raw.githubusercontent.com/devcaline/devcraft-estudo-de-caso/main/prints/home-01-hero.jpg" alt="Site da DevCraft" />
       </a>
       <p>Site comercial da minha agência: one-page de conversão, quiz de orçamento com recomendação automática e captura de leads integrada a planilha + e-mail.</p>
       <p><code>Next.js 15</code> <code>React 19</code> <code>Vercel</code> <code>Google Sheets</code> <code>Resend</code></p>
       <p align="center">
-        <a href="https://devcraft.dev.br/"><strong>🔗 Site no ar</strong></a> ·
-        <a href="https://github.com/devcaline/devcraft">📂 Vitrine do projeto</a>
+        <a href="https://github.com/devcaline/devcraft-estudo-de-caso"><strong>📖 Estudo de caso</strong></a> ·
+        <a href="https://devcraft.dev.br/">🔗 Ver site</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ Lumière Clínica de Estética</h3>
+      <a href="https://github.com/devcaline/lumiere-estudo-de-caso">
+        <img src="https://raw.githubusercontent.com/devcaline/lumiere-estudo-de-caso/main/prints/home-01-hero.jpg" alt="Site da Lumière Clínica de Estética" />
+      </a>
+      <p>Projeto de estudo: site institucional pra uma clínica de estética fictícia, com tratamentos filtráveis por categoria e um único caminho até a avaliação pelo WhatsApp.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p align="center">
+        <a href="https://github.com/devcaline/lumiere-estudo-de-caso"><strong>📖 Estudo de caso</strong></a> ·
+        <a href="https://portifolio.devcraft.dev.br/estetica/">🔗 Ver site</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Mais projetos de clientes</h3>
-      <a href="https://devcraft.dev.br/#portfolio" target="_blank">
-        <img src="https://raw.githubusercontent.com/devcaline/devcraft/main/screenshots/portfolio.png" alt="Portfólio da DevCraft com sites de clientes reais" />
+      <a href="https://devcraft.dev.br/#portfolio">
+        <img src="https://raw.githubusercontent.com/devcaline/devcraft-estudo-de-caso/main/prints/home-05-portfolio-clientes.jpg" alt="Portfólio da DevCraft com sites de clientes reais" />
       </a>
       <p>Sites entregues pra negócios reais de vários segmentos: escola de artes, psicólogo, consultorias. Veja todos rodando ao vivo no portfólio da DevCraft.</p>
       <p><code>Negócios reais</code> <code>Sites no ar</code></p>
@@ -77,7 +104,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -96,7 +123,7 @@ Apaixonada por tecnologia, design e criação de experiências digitais modernas
 
 ---
 
-# 🌎 Onde me encontrar
+## 🌎 Onde me encontrar
 
 <div align="center">
 
